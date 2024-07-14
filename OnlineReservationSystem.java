@@ -1,7 +1,7 @@
 package online_reservation_system;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class OnlineReservationSystem {
     private Map<String, String> users; // Store username-password pairs
