@@ -1,5 +1,5 @@
 package online_reservation_system;
-import java.util.HashMap;
+import java.util.HashMap; 
 import java.util.Map;
 import java.util.Scanner;
 
