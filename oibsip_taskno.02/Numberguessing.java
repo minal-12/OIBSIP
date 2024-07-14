@@ -1,6 +1,6 @@
 package number_guessing_game;
 
-
+ 
 
 import java.util.Scanner;
 import java.util.Random;
