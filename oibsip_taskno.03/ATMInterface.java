@@ -1,4 +1,4 @@
-package online_reservation_system;
+package atm_interface;
 
 
 import java.util.*;
