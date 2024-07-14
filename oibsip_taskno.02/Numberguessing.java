@@ -1,4 +1,4 @@
-package online_reservation_system;
+package number_guessing_game;
 
 
 
